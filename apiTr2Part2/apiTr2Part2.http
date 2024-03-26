@@ -1,0 +1,6 @@
+@apiTr2Part2_HostAddress = http://localhost:5291
+
+GET {{apiTr2Part2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
